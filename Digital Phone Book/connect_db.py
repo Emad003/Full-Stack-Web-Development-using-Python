@@ -2,7 +2,7 @@ import psycopg2
 hostname='localhost'
 database='users'
 username='postgres'
-pwd='sbbhai@1#'
+pwd='test'
 port_id=5432
 conn=None
 try:
